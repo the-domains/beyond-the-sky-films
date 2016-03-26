@@ -4,8 +4,15 @@
         <description><![CDATA[Beyond The Sky Films]]></description>
         <link>https://thegrid.ai/beyond-the-sky-films/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 23:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2016 23:23:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/beyond-the-sky-films/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Beyond The Sky Films ]]></title>
+            <description><![CDATA[<article><h1>Beyond The Sky Films </h1><p>Beyond The Sky Films</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd6dc8efc38d99c70b1010a8bc67fcfc15e986c6.jpg"></article>]]></description>
+            <link>https://thegrid.ai/beyond-the-sky-films/8a8d3efb-5e35-416a-af3f-d4582a520d70/index.html</link>
+            <guid isPermaLink="false">8a8d3efb-5e35-416a-af3f-d4582a520d70</guid>
+            <pubDate>Sat, 26 Mar 2016 23:23:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Test 2]]></title>
             <description><![CDATA[<h1>Test 2</h1>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/beyond-the-sky-films/8936bb06-3958-4d32-be5b-9014e5264afc/index.html</link>
             <guid isPermaLink="false">8936bb06-3958-4d32-be5b-9014e5264afc</guid>
             <pubDate>Sat, 26 Mar 2016 23:13:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8382add7-0599-4aaa-b034-57deb699df01.jpg">]]></description>
-            <link>https://thegrid.ai/beyond-the-sky-films/8a8d3efb-5e35-416a-af3f-d4582a520d70/index.html</link>
-            <guid isPermaLink="false">8a8d3efb-5e35-416a-af3f-d4582a520d70</guid>
-            <pubDate>Sat, 26 Mar 2016 22:14:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
